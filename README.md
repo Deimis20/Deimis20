@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deimis20
-- 👀 I’m interested in JavaScript.
+- 👀 I’m interested in JavaScript, PhP, Python, Multimedia and Graphic Design.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
